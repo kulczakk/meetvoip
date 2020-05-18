@@ -66,9 +66,9 @@ pl_PL:
       room_configuration:
          title: Room Configuration
          mute:
-         info: Automatically mutes the user when they join the BigBlueButton meeting
+         info: Automatically mutes the user when they join the meeting
       require_moderator:
-        info: Prompts the moderator of the BigBlueButton meeting when a user tries to join. If the user is approved, they will be able to join the meeting.
+        info: Prompts the moderator of the meeting when a user tries to join. If the user is approved, they will be able to join the meeting.
       allow_any:
         info: Allows any user to start the meeting at any time. By default, only the room owner can start the meeting.
       all_moderator:
