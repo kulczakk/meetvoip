@@ -196,7 +196,7 @@ pl_PL:
     designs: Własny Wygląd
     authentication: Uwierzytelnianie Użytkownika
   footer:
-    powered_by: "Zasilany przez %{href}."
+    powered_by: "Własność: %{href}."
   forgot_password:
     subtitle: Zapomniane hasło
     email: Email
