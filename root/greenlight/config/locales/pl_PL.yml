@@ -63,6 +63,20 @@ pl_PL:
           approval: Zatwierdź/Odrzuć
           invite: Dołącz przez Zaproszenie
           open: Otwarta rejestracja
+      room_configuration:
+         title: Room Configuration
+         mute:
+         info: Automatically mutes the user when they join the BigBlueButton meeting
+      require_moderator:
+        info: Prompts the moderator of the BigBlueButton meeting when a user tries to join. If the user is approved, they will be able to join the meeting.
+      allow_any:
+        info: Allows any user to start the meeting at any time. By default, only the room owner can start the meeting.
+      all_moderator:
+        info: Gives all users moderator privileges when they join the meeting.
+      options:
+        disabled: Disabled
+        enabled: Always Enabled
+        optional: Optional
       rooms:
         info: "Ogranicz liczbę pokoi, które może posiadać użytkownik (w tym pokój domowy). To ustawienie nie dotyczy administratorów."
         title: Liczba pokoi na użytkownika
